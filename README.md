@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pineappleperson
+- 🕶 I’m a pineapple
+- 🍍 I do pineapple things
