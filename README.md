@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @pineappleperson
-- 🕶 I’m a pineapple
-- 🍍 I do pineapple things
+- 🥧 I like Raspberry Pis 
+- 🎨 Know more about Picasso 
+- 🐍 Than python 
+- 📐 More of a designer than a coder 
+- 🍍 I do pineapple things 
